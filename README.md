@@ -1,4 +1,13 @@
-# html5-video-player-ts
+# html5-video-player
+
+> HTML5 Video Player
+
+## Powered by
+
+- Vue.js
+- TypeScript
+- Material Icons
+- web-animations-js
 
 ## Project setup
 ```
